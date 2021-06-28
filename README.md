@@ -1,5 +1,5 @@
 # Spam_Classification
-Classification of SMS into **spam** or **ham** with :
+Classification of SMS into **spam** or **ham** using **nltk** and **sklearn** with models :
 
 Logistic Regression : Accuracy 95.83
 
